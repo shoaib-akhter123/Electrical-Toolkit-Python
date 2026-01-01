@@ -1,13 +1,13 @@
-#Electrical Toolkit – Python CLI Project
+# Electrical Toolkit – Python CLI Project
 A Python-based Electrical Toolkit to calculate core electrical engineering values and explore series & parallel resistor circuits. Ideal for students and beginners to visualize Ohm’s Law, power, and resistor networks.
-##Features
+## Features
 - Ohm’s Law Calculator – find Voltage (V), Current (I), or Resistance (R)
 - Power Calculator – supports all formulas: P = V×I, P = I²×R, P = V²/R
 - Series Resistors – calculate total resistance and apply Voltage Division Rule (VDR)
 - Parallel Resistors – calculate total resistance and apply Current Division Rule (CDR)
 - User-Friendly CLI – interactive menu for easy input
 - Input Validation – handles invalid or zero-resistance inputs
-##How to Use
+## How to Use
 Clone or download the repository
 Run the main Python file:
 Copy code
@@ -18,7 +18,7 @@ Choose what to calculate (V, I, R, Power)
 Enter required values
 For resistors, select Series or Parallel and input values
 View results including total resistance, VDR/CDR calculations, and power
-##Example Outputs
+## Example Outputs
 Voltage Calculation
 Copy code
 
